@@ -92,7 +92,7 @@ export const projectsData = [
     ],
     image: tastyMockup,
     deploymenturl: "https://delightful-cheesecake-9b19f0.netlify.app/",
-    githuburl: "https://github.com/magicCicero/Tasty",
+    githuburl: "https://github.com/CommitMe922/Tasty",
     githubicon: FiGithub,
     deploymenticon: FiLink,
     colors: {
@@ -125,7 +125,7 @@ export const projectsData = [
     image: silentmoonMockup,
     deploymenturl: "https://silentmoon-grpw.onrender.com/",
     githuburl:
-      "https://github.com/AlpayC/Fullstack_Abschlussprojekt_SilentMoon",
+      "https://github.com/CommitMe922/Silentmoon",
     githubicon: FiGithub,
     deploymenticon: FiLink,
     colors: {
@@ -157,7 +157,7 @@ export const projectsData = [
     ],
     image: instorMockup,
     deploymenturl: "https://mern-haushaltsbuch.onrender.com/",
-    githuburl: "https://github.com/magicCicero/Furniture_MERN",
+    githuburl: "https://github.com/CommitMe922/Furniture_MERN",
     githubicon: FiGithub,
     deploymenticon: FiLink,
     colors: {
@@ -189,7 +189,7 @@ export const projectsData = [
     ],
     image: itchyscreen,
     deploymenturl: "https://play.google.com/store/apps/details?id=org.scratchclient4.itchy",
-    githuburl: "https://github.com/magicCicero/itchy-ionic",
+    githuburl: "https://github.com/CommitMe922/itchy-ionic",
     githubicon: FiGithub,
     deploymenticon: FiLink,
     colors: {
@@ -198,37 +198,7 @@ export const projectsData = [
       icon: "white",
       projectcolor: "#E3964A",
     },
-  },
-  {
-    title: "Livwatch",
-    description:
-      "Livwatch fornece uma landing page incrível, que é implantada por mim do zero: do design à implantação - todo o processo de desenvolvimento envolveu minhas habilidades.",
-    description_EN:
-      "Livwatch provides awesome landing page, which is deployed by me from scratch: from design to deploy - all development process involved my skills.",
-    technologies: [
-      { name: "Html", icon: htmlicon },
-      { name: "CSS", icon: cssicon },
-      { name: "JavaScript", icon: javascripticon },
-      { name: "React", icon: reacticon },
-      { name: "JWT & Bcrypt", icon: jwticon },
-      { name: "Axios", icon: axiosicon },
-      { name: "MongoDB", icon: mongodbicon },
-      { name: "Express", icon: expressiconwhite },
-      { name: "Node.js", icon: nodejsicon },
-      { name: "Figma", icon: figmaicon },
-      { name: "Render", icon: rendericon },
-      { name: "Trello", icon: trelloicon },
-    ],
-    image: livwatch,
-    deploymenturl: "https://www.livwatches.com/",
-    deploymenticon: FiLink,
-    colors: {
-      main: "main-btn",
-      second: "secondary-btn",
-      icon: "white",
-      projectcolor: "#E3964A",
-    },
-  },
+  },  
 ] as const;
 
 export const liveTickerData = {
@@ -374,8 +344,8 @@ export const FooterLinks = [
 ] as const;
 
 export const sideBarRightMail = {
-  link: "mailto:cicerooantonio20@gmail.com",
-  text: "cicerooantonio20@gmail.com",
+  link: "mailto:yjkropyk@gmail.com",
+  text: "yjkropyk@gmail.com",
 } as const;
 
 export const sideBarLeftSocials = [
@@ -385,12 +355,12 @@ export const sideBarLeftSocials = [
     altimgname: "linkedin",
   },
   {
-    link: "https://github.com/magicCicero",
+    link: "https://github.com/CommitMe922",
     icon: FiGithub,
     altimgname: "github",
   },
   {
-    link: "mailto:cicerooantonio20@gmail.com",
+    link: "mailto:yjkropyk@gmail.com",
     icon: FiMail,
     altimgname: "gmail",
   },
